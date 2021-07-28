@@ -1,0 +1,30 @@
+#back{
+
+    background: url(back-img.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height: 400px;
+}
+
+#road{
+
+    background: url(road.jpg);    
+}
+
+#img{
+    width: 150px;
+}
+
+#btn{
+    background-color: darkorange;
+    width: 150px;
+    font-size: 25px;
+}
+
+#Dbtn{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
